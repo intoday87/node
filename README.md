@@ -7,3 +7,4 @@ $ npm rebuild fsevents
 
 # node js 강의 및 학습 
 - https://www.udemy.com/course/advanced-node-for-developers/
+- [js conf event loof 설명](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
