@@ -12,3 +12,4 @@ $ npm rebuild fsevents
 
 # Article
 - [Finding And Fixing Node.js Memory Leaks: A Practical Guide](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html)
+- [Debugging and fixing a memory leak on NextJS / Node](https://alberic.trancart.net/2020/05/how-fixed-first-memory-leak-nextjs-nodejs/)
