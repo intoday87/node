@@ -8,6 +8,7 @@ $ npm rebuild fsevents
 # node js 강의 및 학습 
 - https://www.udemy.com/course/advanced-node-for-developers/
 - [js conf event loof 설명](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
 
 # Article
