@@ -14,3 +14,8 @@ $ npm rebuild fsevents
 # Article
 - [Finding And Fixing Node.js Memory Leaks: A Practical Guide](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html)
 - [Debugging and fixing a memory leak on NextJS / Node](https://alberic.trancart.net/2020/05/how-fixed-first-memory-leak-nextjs-nodejs/)
+
+
+# npm
+- [authToken 설정](https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow#create-and-check-in-a-project-specific-npmrc-file)
+  ※ 토큰 값에 quote 제거!
